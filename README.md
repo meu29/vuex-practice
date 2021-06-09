@@ -1,24 +1,3 @@
-# vue-typescript-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+sudo sysctl fs.inotify.max_user_watches=50000<br>
+npm run serve<br>
+array.push()の返り値の型はnumberである
